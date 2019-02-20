@@ -73,11 +73,11 @@ How the single time but relevant contribution could be rewarded?
 KYODO suggests Impression revenue model. The contribution is evaluated by members of the community in the momentum. The Nash Equilibrium is achieved through the Token economy, where the token value is based on the activity of the members. Means that every member of a community is interested to evaluate other contributors fair and motivate them to further actions. Also, the group members know the best if someone did a good job. 
 More about DF token model read in Token economy paragraph. (link)
 
-What is even cooler is that Impression revenue model is instant tipping that is adapted for the working platform that the community is using (Riot, for now, GitHub and Jitsi in progress).
+What is even cooler is that Impression revenue model is instant tipping that is adapted for the working platform that the community is using (Riot, for now, Github and Jitsi in progress).
 How the instant tipping works:
-- A member posts a link to a Riot that some contribution was done (twitter post or GitHub code)
-- Other members check the contribution and call the bot, asking to send the tip to the contributor. (example)
-- The earned tips are collected automatically within a period. The earned tips are converted to DF token at the end of a period and transferred to the member private address. 
+- A member shares to Riot details on the contribution he did explaining its importance for the community (Twitter post or Github code)
+- Other members check the contribution and using connected bot send tips to the contributor.
+- The earned tips are collected automatically within a period. The earned tips are converted to DF token at the end of a period and transferred to the member ethereum address. 
 
 ### Transaction costs
 The productive processes and organization of labor fits within the KYODO framework that incorporates Blockchain, tokenization and collective intelligence and lead to lowering costs of coordination DAOs allow it to scale larger. Means KYODO reduces the transaction costs. Let's see which ones:
