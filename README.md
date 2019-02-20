@@ -1,4 +1,4 @@
-# Lightpapper KYODO
+# Lightpaper KYODO
 ## INTRO
 
 Modern capitalism is undergoing radical changes due to new social trends and blockchain development. We are living in the Post-Fordism era, where the labor is not alienated anymore, capital isn't fixed and means of production aren't necessarily owned by the bourgeoisie. So Karl Marx can rest in peace while our generation rethinking not only the Labor conditions and organization structures, but the Labor itself.
