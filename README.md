@@ -61,7 +61,9 @@ HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#
 ## Cryptoeconomy KYODO
 
 ### KYODO Impression revenue model
-"Now that the commodity value of human labor is becoming increasingly  tangential in an even more automated world, new ways of defining human worth and the social relationship will need to be explored" Jeremy Rifkin "End of work"
+> Now that the commodity value of human labor is becoming increasingly tangential in an even more automated world, new ways of defining human worth and the social relationship will need to be explored
+>
+> -- *Jeremy Rifkin* "End of work"
 
 "Pay per hour" or monthly salary better fits for robots that produce countable units with a stable quality. 
 How the enthusiasm or dedication could be evaluated?
