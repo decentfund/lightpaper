@@ -79,7 +79,7 @@ They are the costs associated with making sure that the parties in the contract 
 They are the costs associated with looking for relevant information and meeting with agents with whom the transaction will take place.
 KYODO motivates to share result to be rewarded.
 
-5. Oportunistic behavour
+5. Oportunistic behavior
 KYODO impression based reward model
 
 
