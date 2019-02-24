@@ -65,19 +65,22 @@ HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#
 >
 > -- *Jeremy Rifkin* "End of work"
 
-"Pay per hour" or monthly salary better fits for robots that produce countable units with a stable quality. 
+We also think that "Pay per hour" or monthly salary better fit robots that produce countable units with a stable quality.
+As a DAO we meet evaluation challenges: 
 How the enthusiasm or dedication could be evaluated?
 How the progressiveness or intuition could be estimated?
 How the single time but relevant contribution could be rewarded?
 
-KYODO suggests Impression revenue model. The contribution is evaluated by members of the community in the momentum. The Nash Equilibrium is achieved through the Token economy, where the token value is based on the activity of the members. Means that every member of a community is interested to evaluate other contributors fair and motivate them to further actions. Also, the group members know the best if someone did a good job. 
+KYODO came up with an Impression revenue model as a solution. An actor posts a link with a contribution he did. The community members evaluate every contribution with sending tips by points bot on coworking platform (Riot, for now, Github and Jitsi in progress).  The list of the done tasks will be added to the Ethereum blockchain.
+The earned points for a period will be converted to DF tokens and sent to a member private wallet. 
+That is the way how a member gets a share of the common fund, gets involved in the community development. 
+The token value is based on the effectiveness of the activity of the members.
+Actually, as it is asset-backed the price is based on the cap of the fund, but holders/members interests are aligned to increase the token price by increasing its cap. 
+Every member of a community is interested to evaluate other contributors fairly to motivate them for further actions. Also, community members know the best if someone did a job well. 
 More about DF token model read in Token economy paragraph. (link)
 
-What is even cooler is that Impression revenue model is instant tipping that is adapted for the working platform that the community is using (Riot, for now, Github and Jitsi in progress).
-How the instant tipping works:
-- A member shares to Riot details on the contribution he did explaining its importance for the community (Twitter post or Github code)
-- Other members check the contribution and using connected bot send tips to the contributor.
-- The earned tips are collected automatically within a period. The earned tips are converted to DF token at the end of a period and transferred to the member ethereum address. 
+
+
 
 ### Transaction costs
 The productive processes and organization of labor fits within the KYODO framework that incorporates Blockchain, tokenization and collective intelligence and lead to lowering costs of coordination DAOs allow it to scale larger. Means KYODO reduces the transaction costs. Let's see which ones:
