@@ -104,5 +104,21 @@ KYODO motivates to share result to be rewarded.
 5. Opportunistic behavior
 KYODO impression based reward model
 
+### Inflation as incentive tool
+A horizontal organization is free from the management layer leaving its stakeholders in full self-responsibility for the outcome. However, any rational participant is interested in further development and flourish of the organization. Thus, novel management model should be aimed to unite and guide productive members to collective benefit.
 
+In an organization run by KYODO, stakeholders are bounded by the token which represents ownership of all common assets and rights for future revenue distribution. The model suggests simple mechanics as an incentive for members to stay active and productive contributors: minting new tokens through activity.
 
+#### On practice
+At the start of a period(usually not less than a month), every member of DAO receives a stack of points based on their native token holdings. Those points are used to reward other members of DAO who make valuable contributions(Impression based model). After period ends, new native tokens are minted and distributed among members pro rata to earned points. 
+
+The quantity of newly minted tokens(inflation) is derived from the overall level of activity in DAO by the following principle: the lower the activity, the higher the inflation would be and vice versa. Activity is determined through simple relation:
+Ps/Pt, where 
+Ps - total points spent by all members during a period;
+Pt - total points at the start of a period. 
+*Inflation rate and activity relation graph*
+
+Such interrelation provides a strong incentive to contribute right at the start of a period as initial contributions will have huge weight(for some time at least). As a period goes by, less active members will try to spend all their points lowering inflation or try to earn points by themselves. Totally passive members will eventually feel the pressure of inflation and either leave the DAO or start to deliver useful contributions.
+
+As we can see, inflation could serve both as a reward for active contributors and as soft non-human moderator for inactive members. However, there are concerns and opened questions around this model. For instance, how early contributor currently inactive will behave? Is quitting a good option for such member or it will be more beneficial to have their stake cut by inflation, but stay in DAO until stable revenue develops? How "fair" those rewards would be from the rewarded member point of view? How initial capital will be formed? 
+How DAOs will regulate entry and exit of new members?
