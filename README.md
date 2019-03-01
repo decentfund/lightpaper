@@ -52,14 +52,7 @@ YUK HUI Researcher specializing in digital objects and social web.
 HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#a6)
 
 
-### Challenges KYODO meets
-
-- Create a framework for liquid/sustainable/horizontal organizations, that could serve as a tool to manage its activity, be incentive and efficient. 
-- Test the new reward mode for #DAO members activity, that matches the post labor era features (fun/work, no long-term obligations, follow self-interests)
-- Achieve a network effect that brings mass adoption closer.
-
-
-## What can KYODO do?
+## KYODO is the tool for DAO
 
 KYODO is a framework to solve issues that Decent.Fund meets building decentralized organization. 
 Project aims to achieve: 
