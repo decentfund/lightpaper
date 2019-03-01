@@ -1,7 +1,7 @@
 # KYODO lightpaper
 ## Rational
 
-Modern capitalism is undergoing radical changes due to new social trends and blockchain development. We are living in the Post-Fordism era, where the labor is not alienated anymore, capital isn't fixed and means of production aren't necessarily owned by the bourgeoisie. So Karl Marx can rest in peace while our generation rethinking not only the Labor conditions and organization structures, but the Labor itself.
+Modern capitalism is undergoing radical changes due to new social trends and blockchain development. We are living in the Post-Fordism era, where the labor is not alienated anymore, capital isn't fixed and means of production aren't necessarily owned by the bourgeoisie. So let Karl Marx rest in peace while our generation rethinking not only the Labor conditions and organization structures but the Labor itself.
 
 > Redefining opportunities and responsibilities for people in a society absent of mass formal employment is likely to be the single most pressing social issue of the century
 >
@@ -58,7 +58,31 @@ HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#
 - Test the new reward mode for #DAO members activity, that matches the post labor era features (fun/work, no long-term obligations, follow self-interests)
 - Achieve a network effect that brings mass adoption closer.
 
-## Cryptoeconomy KYODO
+
+## What can KYODO do?
+
+KYODO is a framework to solve issues that Decent.Fund meets building decentralized organization. 
+Project aims to achieve: 
+- high activity from members;
+- self-motivation and self-responsibility; 
+- hyper-flexibility to handle high liquidity of members and tasks; 
+- trusted governance;
+- stable currency to reward contributors; 
+- effective fund management; 
+- good UX to eliminate the entry barrier for newcomers; 
+- ability to scale.
+
+### KYODO features
+* Create a working DAO group. KYODO provides a clear interface for manage processes,  gives a constructor to build a customized version of a DAO for the wide range of spheres.
+* Ability to mint your own token or use existing mintable one. We use Colony to own and manage it.
+* Instant tipping tool - instant payment for a contribution in crypto via different working chats. DF balance is reflected on the KYODO interface, and kept on Ethereum blockchain.
+* Token economy with inflation as an incentive system.
+* Democratic voting on the blockchain.
+* Multi-signature wallet holding fund treasury. 
+* Task management interface.
+* Network effect incorporated.
+
+## CryptoEconomy KYODO
 
 ### Transaction costs
 The productive processes and organization of labor fits within the KYODO framework that incorporates Blockchain, tokenization and collective intelligence and lead to lowering costs of coordination DAOs allow it to scale larger. Means KYODO reduces the transaction costs. Let's see which ones:
