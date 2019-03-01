@@ -82,7 +82,6 @@ Project aims to achieve:
 * Task management interface.
 * Network effect incorporated.
 
-## CryptoEconomy KYODO
 
 ### Transaction costs
 The productive processes and organization of labor fits within the KYODO framework that incorporates Blockchain, tokenization and collective intelligence and lead to lowering costs of coordination DAOs allow it to scale larger. Means KYODO reduces the transaction costs. Let's see which ones:
