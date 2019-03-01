@@ -87,6 +87,9 @@ KYODO impression based reward model
 >
 > -- *Jeremy Rifkin* "End of work"
 
+KYODO explores the new ways to reward and incetivize community members. KYODO is the new tool for liquidity labor, beause the 
+"Pey per hour" rewarding model is now better fits to machines than humans.
+
 A horizontal organization is free from the management layer leaving its stakeholders in full self-responsibility for the outcome. However, any rational participant is interested in further development and flourish of the organization. Thus, novel management model should be aimed to unite and guide productive members to collective benefit.
 
 In an organization run by KYODO, stakeholders are bounded by the token which represents ownership of all common assets and rights for future revenue distribution. The model suggests simple mechanics as an incentive for members to stay active and productive contributors: minting new tokens through activity.
