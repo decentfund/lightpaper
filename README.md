@@ -60,28 +60,6 @@ HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#
 
 ## Cryptoeconomy KYODO
 
-### KYODO Impression revenue model
-> Now that the commodity value of human labor is becoming increasingly tangential in an even more automated world, new ways of defining human worth and the social relationship will need to be explored
->
-> -- *Jeremy Rifkin* "End of work"
-
-We also think that "Pay per hour" or monthly salary better fit robots that produce countable units with a stable quality.
-As a DAO we meet evaluation challenges: 
-How the enthusiasm or dedication could be evaluated?
-How the progressiveness or intuition could be estimated?
-How the single time but relevant contribution could be rewarded?
-
-KYODO came up with an Impression revenue model as a solution. An actor posts a link with a contribution he did. The community members evaluate every contribution with sending tips by points bot on coworking platform (Riot, for now, Github and Jitsi in progress).  The list of the done tasks will be added to the Ethereum blockchain.
-The earned points for a period will be converted to DF tokens and sent to a member private wallet. 
-That is the way how a member gets a share of the common fund, gets involved in the community development. 
-The token value is based on the effectiveness of the activity of the members.
-Actually, as it is asset-backed the price is based on the cap of the fund, but holders/members interests are aligned to increase the token price by increasing its cap. 
-Every member of a community is interested to evaluate other contributors fairly to motivate them for further actions. Also, community members know the best if someone did a job well. 
-More about DF token model read in Token economy paragraph. (link)
-
-
-
-
 ### Transaction costs
 The productive processes and organization of labor fits within the KYODO framework that incorporates Blockchain, tokenization and collective intelligence and lead to lowering costs of coordination DAOs allow it to scale larger. Means KYODO reduces the transaction costs. Let's see which ones:
 
@@ -105,6 +83,10 @@ KYODO motivates to share result to be rewarded.
 KYODO impression based reward model
 
 ### Inflation as incentive tool
+> Now that the commodity value of human labor is becoming increasingly tangential in an even more automated world, new ways of defining human worth and the social relationship will need to be explored
+>
+> -- *Jeremy Rifkin* "End of work"
+
 A horizontal organization is free from the management layer leaving its stakeholders in full self-responsibility for the outcome. However, any rational participant is interested in further development and flourish of the organization. Thus, novel management model should be aimed to unite and guide productive members to collective benefit.
 
 In an organization run by KYODO, stakeholders are bounded by the token which represents ownership of all common assets and rights for future revenue distribution. The model suggests simple mechanics as an incentive for members to stay active and productive contributors: minting new tokens through activity.
