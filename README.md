@@ -58,18 +58,30 @@ HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#
 - Test the new reward mode for #DAO members activity, that matches the post labor era features (fun/work, no long-term obligations, follow self-interests)
 - Achieve a network effect that brings mass adoption closer.
 
+
 ## What can KYODO do?
 
-As soon as KYODO Dapp created to manage existing DAO Decent.Fund, this tool solves the real issues DF DAO met on its way. DF DAO needs are common to others DAO: many active members; self-motivation; hyper-flexibility to changing members and switching tasks; stable currency to reward contributors; effective fund management; good UX to eliminate the entry barrier for newcomers; ability to scale. We try different models and came up with the next list of features, that are already going through reality check:
+KYODO is a complex of solutions for issues that Decent.Fund meets building decentralized organization. 
+DF aims to achieve: 
+- high activity members;
+- self-motivation & self-responsibility; 
+- hyper-flexibility to handle high liquidity of members and tasks; 
+- trusted governance;
+- stable currency to reward contributors; 
+- effective fund management; 
+- good UX to eliminate the entry barrier for newcomers; 
+- ability to scale.
 
-* Creating a working group (DAO), KYODO provides a clear interface for management processes, also the constructor to make a customized version of a DAO.
-* Mint your own token or use DF token (Decent.fund token - KYODO creator) feature based on Colony
-* Collection of a secure treasury of a community via crypto.
-* Instant tipping for contributions in crypto via main work platforms. The tipping info (the capital flows) is reflected in the KYODO interface, also written to a blockchain.
-* Activity incentive system
-* Democratic vote or multi-signature based disbursement of funds to various parties based on Arago y Colony
-* Proposition upload and adoption mechanism, for example, choosing between logos, locations, speakers.
-* A way to deal with a DAO that would operate at scale
+So KYODO has these features :
+* Creating a working DAO group. KYODO provides a clear interface for manage processes,  gives a constructor to budl a customized version of a DAO for the wide range of spheres.
+* Ability to mint your own token or use Decent.fund token. We use Colony for it.
+* Collection of a secure treasury via crypto.
+* Instant tipping tool - instant payment for a contribution in crypto via different working chats. DF balance is reflected on the KYODO interface, and kept on Ethereum blockchain.
+* Crypto economy with inflation as an incentive system.
+* Democratic voting on the blockchain.
+* Multi-signature wallet. 
+* Task management interface.
+* Network effect incorporated.
 
 ## CryptoEconomy KYODO
 
