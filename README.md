@@ -51,13 +51,28 @@ In this manner, collectives can discover each other and communicate to seek poss
 YUK HUI Researcher specializing in digital objects and social web.
 HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#a6)
 
+## Working process / Org structure
 
-## KYODO is the tool for DAO
+How the new liquid modernity affects the way people communicate and organized themselves for efficient activity? These new conditions - hyper inconstancy and fluidity; organically derived the evolution of organizations that differ from formal structures. The academics developed the concept of Adhocracy based on this new type of org structure.
 
-KYODO is a framework to solve issues that Decent.Fund meets building decentralized organization.
-Project aims to achieve:
-- high activity from members;
-- self-motivation and self-responsibility;
+From Wikipedia
+"Adhocracy is a complex and dynamic organizational form. 
+It is characterized by an adaptive, creative and flexible integrative behavior based on non-permanence and spontaneity. It is believed that these characteristics allow adhocracy to respond faster than traditional bureaucratic organizations while being more open to new ideas." 
+KYODO provides a tool for managing Adhocracy type of organisations.
+
+The liquid character of society dictates the way people communicate with each other. The irrelevance of permanent working place provoked the rise of coworking platforms such as Riot, Github, Jitsy etc. KYODO develops the layer that connects those platforms to blockchain by bringing there instant payment system - Impression revenue model (Look payment paragraph). We believe that the mass adoption could be achieved not by integration of blockchain with widely used present-day tools.  
+
+### The scope of usage
+Basically, any Motley crew can use KYODO as a glue.
+All kind of DAO can run their community on the KYODO platform. KYODO can cover fields:
+- Sturt ups
+- Local development (economic  and political)
+- Charity
+- Activism
+
+KYODO's main ambitions are:
+- high activity of members;
+- self-motivation and self-responsibility of members;
 - hyper-flexibility to handle high liquidity of members and tasks;
 - trusted governance;
 - stable currency to reward contributors;
@@ -67,13 +82,32 @@ Project aims to achieve:
 
 ### KYODO features
 * Create a working DAO group. KYODO provides a clear interface for manage processes, gives a constructor to build a customized version of a DAO for the wide range of spheres.
-* Ability to mint your own token or use existing mintable one. We use Colony to own and manage it.
+* Ability to mint your own token or use existing mintable one. Based on Colony.
 * Instant tipping tool - instant payment for a contribution in crypto via different working chats. DF balance is reflected on the KYODO interface, and kept on Ethereum blockchain.
 * Token economy with inflation as an incentive system.
-* Democratic voting on the blockchain.
+* Democratic voting on the blockchain. Based on Aragon.
 * Multi-signature wallet holding fund treasury.
 * Task management interface.
 * Network effect incorporated.
+
+### Domains
+All the activities of DAOs could be  divided within domains, that reflect it's specifics. 
+For example Decent.Fund has 4 domains:
+* DEV domain (UI/UX design, programming, digital marketing)
+* SOCIAL domain (research, articles, infographics, meetups, hackathons, social activity)
+* FUND management domain (smart investment, crypto asset management)
+* GOV domain (strategy)
+
+![](https://i.imgur.com/KSi8J3Y.jpg)
+
+The domain concept KYODO takes from Colony. 
+"Domain is like a folder in a shared filesystem, except instead of containing files and folders, it can contain sub-domains and tasks . This simple modularity enables great flexibility as to how an organization may be structured.
+
+It is ultimately up to individual colonies to decide how they wish to use domains — some might only use them for coarse categorizations, whereas others may use them to precise group only the most similar tasks together, or even multiple tasks that other colonies would consider a single task."  [Whitepapper Colony](https://colony.io/whitepaper.pdf)
+
+The domains structure is also fluid. The community member can initiate the new domain if they feel they found a new activity's dimension that doesn't fit previous domains. Easy migration and changing roles also work for better individualization process of members, KYODO inspires self-defining and empowers the enthusiasm.
+
+
 
 
 ### Transaction costs
