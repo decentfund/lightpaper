@@ -52,15 +52,23 @@ YUK HUI Researcher specializing in digital objects and social web.
 HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#a6)
 
 ## Working process / Org structure
+Today in nanosecond era the effective functioning of organization requires quicker responses and faster decision making to remain competitive. The traditional control and coordination functions are dreadfully slow and incapable of responding in real time. The modern companies are reconstructing themselves, eliminating hierarchy and middle management. The cutting edge org structure has features of  Adhocracy and cooperatives (crypto co-ops). 
 
-How the new liquid modernity affects the way people communicate and organized themselves for efficient activity? These new conditions - hyper inconstancy and fluidity; organically derived the evolution of organizations that differ from formal structures. The academics developed the concept of Adhocracy based on this new type of org structure.
-
-From Wikipedia
 "Adhocracy is a complex and dynamic organizational form. 
-It is characterized by an adaptive, creative and flexible integrative behavior based on non-permanence and spontaneity. It is believed that these characteristics allow adhocracy to respond faster than traditional bureaucratic organizations while being more open to new ideas." 
-KYODO provides a tool for managing Adhocracy type of organisations.
+It is characterized by an adaptive, creative and flexible integrative behavior based on non-permanence and spontaneity. It is believed that these characteristics allow adhocracy to respond faster than traditional bureaucratic organizations while being more open to new ideas."  Wikipedia
 
-The liquid character of society dictates the way people communicate with each other. The irrelevance of permanent working place provoked the rise of coworking platforms such as Riot, Github, Jitsy etc. KYODO develops the layer that connects those platforms to blockchain by bringing there instant payment system - Impression revenue model (Look payment paragraph). We believe that the mass adoption could be achieved not by integration of blockchain with widely used present-day tools.  
+"Cooperatives differ from traditional companies in that they are typically funded by direct member investment, rather than investment from third-party shareholders. This allows members to decide on the values of the enterprise, which don’t necessarily need to be about the maximization of profits. In fact, cooperatives tend to be most successful where there’s alignment on other values such as 1) a communal benefit to pooling resources, for economies of scale; and 2) an attendant desire to avoid anti-competitive or extractive behavior." Jesse Walden https://a16z.com/2019/03/02/cooperatives-cryptonetworks/
+
+Example:
+Before
+A startup gets funding and hires specialists for work.
+Now 
+The like-minded group of people develops a product, emerging the self-motivated new participants, getting funding or being sustainable.
+
+Kyodo is the tool of management for such organizations as DAO and crypto co-ops.
+
+The liquid character of society dictates the way people communicate with each other. The irrelevance of permanent working place provoked the rise of coworking platforms such as Riot, Github, Jitsy, etc. KYODO develops the layer that connects those platforms to blockchain by bringing there instant payment system - Impression revenue model (Check payment paragraph). 
+
 
 ### The scope of usage
 Basically, any Motley crew can use KYODO as a glue.
