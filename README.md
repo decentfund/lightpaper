@@ -51,13 +51,47 @@ In this manner, collectives can discover each other and communicate to seek poss
 YUK HUI Researcher specializing in digital objects and social web.
 HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#a6)
 
+## Working process / Org structure
+Today in nanosecond era the effective functioning of organization requires quicker responses and faster decision making to remain competitive. The traditional control and coordination functions are dreadfully slow and incapable of responding in real time. The modern companies are reconstructing themselves, eliminating hierarchy and middle management. The cutting edge org structure has features of Adhocracy and cooperatives (crypto co-ops). 
 
-## KYODO is the tool for DAO
+> Adhocracy is a complex and dynamic organizational form. 
+It is characterized by an adaptive, creative and flexible integrative behavior based on non-permanence and spontaneity. It is believed that these characteristics allow adhocracy to respond faster than traditional bureaucratic organizations while being more open to new ideas.
+>
+> -- *Wikipedia*
 
-KYODO is a framework to solve issues that Decent.Fund meets building decentralized organization.
-Project aims to achieve:
-- high activity from members;
-- self-motivation and self-responsibility;
+<!-- -->
+
+> Cooperatives differ from traditional companies in that they are typically funded by direct member investment, rather than investment from third-party shareholders. This allows members to decide on the values of the enterprise, which don't necessarily need to be about the maximization of profits. In fact, cooperatives tend to be most successful where there’s alignment on other values such as 1) a communal benefit to pooling resources, for economies of scale; and 2) an attendant desire to avoid anti-competitive or extractive behavior.
+> 
+> -- Jesse Walden https://a16z.com/2019/03/02/cooperatives-cryptonetworks/
+
+Example:
+
+*Before*
+
+A startup gets funding and hires specialists for work.
+
+*Now*
+
+The like-minded group of people develops a product, emerging the self-motivated new participants, getting funding or being sustainable.
+
+Kyodo is the tool of management for such organizations as DAO and crypto co-ops.
+
+The liquid character of society dictates the way people communicate with each other. The irrelevance of permanent working place provoked the rise of coworking platforms such as Riot, Github, Jitsy, etc. KYODO develops the layer that connects those platforms to blockchain by bringing there instant payment system - Impression revenue model (Check payment paragraph). 
+
+
+### The scope of usage
+Basically, any Motley crew can use KYODO as a glue.
+
+All kind of DAO can run their community on the KYODO platform. KYODO can cover fields:
+- Start ups
+- Local development (economic  and political)
+- Charity
+- Activism
+
+Kyodo's main ambitions are:
+- high activity of members;
+- self-motivation and self-responsibility of members;
 - hyper-flexibility to handle high liquidity of members and tasks;
 - trusted governance;
 - stable currency to reward contributors;
@@ -67,13 +101,35 @@ Project aims to achieve:
 
 ### KYODO features
 * Create a working DAO group. KYODO provides a clear interface for manage processes, gives a constructor to build a customized version of a DAO for the wide range of spheres.
-* Ability to mint your own token or use existing mintable one. We use Colony to own and manage it.
+* Ability to mint your own token or use existing mintable one. Based on Colony.
 * Instant tipping tool - instant payment for a contribution in crypto via different working chats. DF balance is reflected on the KYODO interface, and kept on Ethereum blockchain.
 * Token economy with inflation as an incentive system.
-* Democratic voting on the blockchain.
+* Democratic voting on the blockchain. Based on Aragon.
 * Multi-signature wallet holding fund treasury.
 * Task management interface.
 * Network effect incorporated.
+
+### Domains
+All the activities of DAOs could be divided within domains, that reflect it's specifics. 
+For example Decent.Fund has 4 domains:
+* DEV domain (UI/UX design, programming, digital marketing)
+* SOCIAL domain (research, articles, infographics, meetups, hackathons, social activity)
+* FUND management domain (smart investment, crypto asset management)
+* GOV domain (governance strategy)
+
+![](https://i.imgur.com/KSi8J3Y.jpg)
+
+The domain concept KYODO takes from Colony. 
+
+> Domain is like a folder in a shared filesystem, except instead of containing files and folders, it can contain sub-domains and tasks. This simple modularity enables great flexibility as to how an organization may be structured.
+
+> It is ultimately up to individual colonies to decide how they wish to use domains — some might only use them for coarse categorizations, whereas others may use them to precise group only the most similar tasks together, or even multiple tasks that other colonies would consider a single task. 
+>
+> -- [Whitepaper Colony](https://colony.io/whitepaper.pdf)
+
+The domains structure is also fluid. The community member can initiate the new domain if they feel they found a new activity's dimension that doesn't fit previous domains. Easy migration and changing roles also work for better individualization process of members, KYODO inspires self-defining and empowers the enthusiasm.
+
+
 
 
 ### Transaction costs
