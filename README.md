@@ -1,62 +1,100 @@
 # KYODO lightpaper
 ## Rational
 
-Modern capitalism is undergoing radical changes due to new social trends and blockchain development. We are living in the Post-Fordism era, where the labor is not alienated anymore, capital isn't fixed and means of production aren't necessarily owned by the bourgeoisie. So let Karl Marx rest in peace while our generation rethinking not only the Labor conditions and organization structures but the Labor itself.
+With the onset of the Third Industrial Revolution and the Post-Fordism era (2), the world economic system hence a  social sphere go through dramatic changes.
+These changes have a dual nature, that seems to be both: frustrating and potential.
 
-> Redefining opportunities and responsibilities for people in a society absent of mass formal employment is likely to be the single most pressing social issue of the century
->
-> -- *Jeremy Rifkin*
+From one side – dreadfully increasing unemployment rate as a result of ongoing deskilling through mechanization and digitalization, that make the ground workforce abandoned. 
 
-We #BUIDL KYODO new economy model for DAO with the hottest instrument of rewarding community participants.
-KYODO Dapp is for managing DAO based on Ethereum blockchain.
+From the other – the rise of symbolic analysts*1 that takes leader’s positions in a new economy,  dictates their rules of a “game”.
 
-Many modern thinkers have noted new features of the Post labor era that we are experiencing nowadays.
-The main long-term social trends should be taken into account modeling modern organization.
+The new economy is establishing yet and the adapting mechanics are pivotal practically for every functioning market agent.  
 
-### Main long-term social and economic trends
-- Liquid modernity / Hyper fluidity / Constant changing / Avoiding long-term obligations / Nomadism <sup id="a1">[1](#f1)</sup>
-- Third industrial revolution / Global switching from vertical hierarchy to horizontal organizations / Decentralization <sup id="a2">[2](#f2)</sup>
-- Post labor <sup id="a3">[3](#f3)</sup> / Workless world <sup id="a4">[4](#f4)</sup>  / Labor Gamification <sup id="a5">[5](#f5)</sup> 
-- Networks for collective individuation <sup id="a6">[6](#f6)</sup> 
+KYODO is the complex tool for the personal/collective integration to the new Distributed Economy and Post Labor society.
 
-<b id="f1">1</b> 
-"It is a kind of chaotic continuation of modernity, where a person can shift from one social position to another in a fluid manner. Nomadism becomes a general trait of the 'liquid modern' man as he flows through his own life like a tourist, changing places, jobs, spouses, values and sometimes more—such as political or sexual orientation—excluding himself from traditional networks of support, while also freeing himself from the restrictions or requirements those networks impose."
-https://en.wikipedia.org/wiki/Late_modernity 
-"Liquid modernity" Zigmund Bauman [↩](#a1)
+## #3dIndustrialRevolution #Postfrodism #PostLabor
+As a result of the Third Industrial Revolution that coming with new communication technologies we are experiencing a complete transformation of the economic model. The economist Rifkin says that everyone connected can be a potential player, and engage each other directly in social entrepreneurial networks and eliminate many of the middlemen, if you will, and institutions that were the referees in a vertically integrated global economy.   
 
-<b id="f2">2</b> 
-"Jeremy Rifkin explores how Internet technology and renewable energy are merging to create a powerful new engine of economic growth. This process will usher in a fundamental reordering of human relationships, from hierarchical to lateral, that will impact the way we conduct commerce, govern society, educate our children, and engage in civic life."
-https://en.wikipedia.org/wiki/The_Third_Industrial_Revolution [↩](#a2)
+Fordism was neither homogenously implemented from country to country, but there is a relative broad consensus about the crisis of Fordism. This crisis by the end of 1960s and through the oil crisis of 1973 signals the ideal-typical transition to the post-Fordist era and to “flexibilization” of work, to deindustrialization, to informationalism and the knowledge-based economy. Rather the Postfordist model is characterised by forms of flexible accumulation (Harvey 1993) that can integrate and network highly diversified modes, times and places of production.  
+The Postfordist enterprise is lean, modular, networked, virtual and transnational.
 
-<b id="f3">3</b> 
-"Labor becomes a voluntary activity there the working class owns the means of production. With this freedom, humans create with sincerity and desire, and not out of materialistic necessity."
-"Play and labor" Chin Jungkwon 2017 "Superhumanity" [↩](#a3)
 
-<b id="f4">4</b> 
-“New revolution is moving us to the edge of workless world”
-“the information and communication technology revolutions virtually guarantee more production with less human labor… Free time will come, William Green said, the only choice is unemployment or leisure.” 
-Jeremy Rifkin “The End of Work: Decline of the Global Labor Force and the Dawn of the Post-Market Era” 1999 [↩](#a4)
 
-<b id="f5">5</b> 
-"According to Marx, capitalist is "alienated" labor. However, the situation is different now. As capitalism grew to become semiotic, aesthetic and play-like, the structure of human desire changed. Since the 1990s, wages have not been the only incentive for economic activity. That is, there has been an increasing amount of people who pursue what they are good at, even at the expense of high wages."
-"Play and labor" Chin Jungkwon 2017 "Superhumanity" [↩](#a5)
+> *"One of the most important shift is that from the traditional sovereignty model to pluralistic governance. In this frame the state enforces a political flexibility through the deregulation of centralistic institutions and the devolution of social responsibilities. Transitions like decentralization, localisation and communalization of formerly state tasks undermine the sovereignty model of the traditional, central state as described by Max Weber."*
 
-<b id="f6">6</b> 
-The era of self-interested individuals, but they are looking for individuation through collective, through common activity and they will need networks for individuation.
+Maria Markantonatou / European Research Studies 
 
-"Each collective project could be defined by an agreed-upon goal, and requirements of fulfillment are collective initiated and updated by ‘members’ of the group.
-Tasks can then be assigned either in the form of individual actions or subgroups. Groups can be merged together to form larger projects at any time, and a project can also be split into smaller collectives. 
-In this manner, collectives can discover each other and communicate to seek possibilities of collaborations and information sharing.” 
 
-YUK HUI Researcher specializing in digital objects and social web.
+## #DistributedCapitalism #blockchain #Decentralization #Holocracy #cryptoeconomy
+
+With the arrival of informational age the society took a reticular structure, a  from of a network with the nodes. (Moreno’s Moreno’s work at the New York State Training School for Girls Hudson). Unlike with the Second Industrial Revolution which characterized by strict vertical hierarchy organized from the top, the organizations of the Third Industrial Revolution have a horizontal structure. Rifkin calls it distributed capitalism.
+
+
+> *“Distributed and collaborative industrial revolution invariably leads to a more distributed sharing of the wealth generated.  in distributed capitalism the low entry costs in lateral networks make it possible for virtually everyone to become a potential entrepreneur and collaborator, creating and sharing information and energy in open commons.”* 
+
+Developing technologies such as open-source networks and blockchain made possible the effective functioning for different types of self-regulating communities (nodes of a society). Those communities could be rather independent from the government or financial systems, also be whatever type: profitable, non-profitable or mixed. 
+
+> *
+From the beginning of digital social networking, there was also a spreading realization that the centralization of social relationships carries dangers. Perhaps the first case in point came in 2005, when Orkut was shutdown by the Iranian government, followed shortly by other social networking sites. (Harry Halpin / Yuk Hui )*
+
+## #PostLAbor #Postlaborer #Symbolicanalysts #training #abstractLabor
+
+Knowledge-based economy is specifically characterised by the fact that the accumulation of knowledge induces new knowledge as the primary source of productivity and social change because of its impact on the productive, cultural and administrative processes as it’s defined by Manuel Castells (1989).
+
+Delino Zanini and Ubaldo Fadini have defined a production today as the ‘production of knowledge by means of knowledge’, determined by continuous productive interactions allowed by information systems in general as much as by the particular communicative and informational nodes that pertain to the productive and social processes in their entirety. 
+
+Castells observes that:Social ‘cultural capital’ and the collective ability to process symbols, i.e. the structurally determined ability of labour to elaborate information and generate knowledge are the ‘material source of productivity’. The more information is exchanged the greater the collective power of symbolic manipulation. In other words, ‘information processing’ is the core of all the processes of production, distribution, consumption and management. 
+
+The symbolic analyst is the main type of post-laborer.
+
+> *“Symbolic analysts  Or knowledge workers who manage the new high-tech information economy. The knowledge workers are a diverse group united by their use of state-of-the-art technology to identify, process, and solve problems. They are the creator, manipulators, and purveyors of the stream of information that makes up the postindustrial, postservice global economy. 
+
+The ranks include research scientist, design, engineers, civil engineers, software analysts,  biotechnology researchers, public relations specialists, lawyers, investment bankers, management consultants, financial and tax consultants, architects, strategic planner, marketing specialists, film producers and editors, art   directors, publishers, writers and journalists.”*
+
+Rifkin / End of work
+
+> *The labour force of the ‘widened knowledge cycle’ (the new ‘digital’ professions) where ‘adopting the mind-set of life long learning is no longer an option but a survival need’. Training is neither just the transmission of knowledge, nor merely preparation geared to a specific activity; ‘it aims to lead individuals towards a certain form of life, and this includes a coherent set of cognitive abilities, behaviours, tastes, values, relations, inclinations and habits’* 
+Adelino Zanini and Ubaldo Fadini
+
+## #AlienatedLabor #Networks for #CollectiveIndividuation
+
+With a changing the essence of a labor itself the alienated labor problem also got a completely different roots. 
+> *“Simondon considers alienation to originate from a more fundamental level than Marx’s economic analysis: no in the ownership of the means of production but in the misunderstanding and ignorance of technology itself”* 
+Yuk Hui
+
+
+The individuation  is the keypoint of the evolution in Simondon's philosophy. The ability of individuation of the personality itself depends on the functional support of the cultural milieu within which it is situated. The development for the individual occurs with and through the collective in a process of orientation within its milieu via signification. 
+
+Collective individuation is the process that brings the individual into a state of constant transformation. 
+
+> *“Collective individuation proposes that another social network is not only possible but necessary for an economy that is far more than marketing, click rate, number of users, and the like. A collective social networking is possible, and is one based on the reveal- ing of ourselves and our being-in-the-world-with-others, the ‘group’ based around a common project or calling. A project is also a projection, that is, the anticipation of a common future of the collective individuation of groups.”* Harry Halpin / Yuk Hui 
+
+## #COOPs #DAO 
+Cooperatives are not a marginal phenomenon:
+
+At least 12% of people on earth is a cooperator of any of the 3 million cooperatives on earth. Cooperatives provide jobs or work opportunities to 10% of the employed population, and the three hundred top cooperatives or cooperative groups generate 2.1 trillion USD in turnover while providing the services and infrastructure society needs to thrive (GLOBAL 300). 
+International Co-operative alliance 
+
+
+## Main Post-labor features:
+- Does not have a rigidly finalistic structure, i.e. it is not guided by a predefined and univocal goal’ (Adelino Zanini and Ubaldo Fadini)
+- Flexibility, continuous training, the spread of precariousness and uncertainty characterise a mobile social model (Bauman 1999).
+- As an Abstract labor that is defined by Marx as as a particular activity that has a specific useful effect, not a concrete labor as a valuable work time that could be counted in hours.
+- Decentralized hence the need of truth content  and trusted global networks
+- New form of alienation that could be overcome through collective individuation networks and education in the fields of technologies and digital sphere.
+
+
+
+
 HARRY HALPIN Research Scientist at Massachusetts Institute of Technology [↩](#a6)
 
 
-## KYODO is the tool for DAO
+## KYODO 
 
-KYODO is a framework to solve issues that Decent.Fund meets building decentralized organization.
-Project aims to achieve:
-- high activity from members;
+The DAO Decent.Fund is building a framework to solve issues that faces a post-labor society. KYODO is the collective individuation platform that could be, also used as a tool for integration into new distributed economy.
+
+KYODO is about:
+- network effect;
 - self-motivation and self-responsibility;
 - hyper-flexibility to handle high liquidity of members and tasks;
 - trusted governance;
@@ -64,6 +102,7 @@ Project aims to achieve:
 - effective fund management;
 - good UX to eliminate the entry barrier for newcomers;
 - ability to scale.
+
 
 ### KYODO features
 * Create a working DAO group. KYODO provides a clear interface for manage processes, gives a constructor to build a customized version of a DAO for the wide range of spheres.
